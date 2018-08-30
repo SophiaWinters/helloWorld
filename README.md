@@ -1,2 +1,2 @@
 # helloWorld
-//Prints out the classic "Hello World". 
+//Prints out the classic "Hello World" in Java.
